@@ -2,6 +2,8 @@
 
 <img src="assets/icon.png" alt="DPM Desktop Logo" width="128" height="128">
 
+<img src="example.png" alt="DPM Desktop Example" width="600">
+
 **UNOFFICIAL VERSION**
 
 A desktop application that enhances your League of Legends experience by connecting to the League Client API and providing real-time game information and statistics.
