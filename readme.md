@@ -1,3 +1,6 @@
+> UPDATE: I was asked to take down the project as it might hurt DPM's RIOT verification. I deleted the release and removed the download links. You can still use the code if you want though.
+
+
 # DPM Desktop by Qutay
 
 <img src="assets/icon.png" alt="DPM Desktop Logo" width="128" height="128">
